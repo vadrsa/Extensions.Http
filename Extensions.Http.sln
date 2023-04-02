@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VadRsa.Extensions.Http", "src\VadRsa.Extensions.Http.csproj", "{6693EDFE-2379-4D93-860E-9CC9D1E07DC8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VadRsa.Extensions.Http.Tests", "tests\VadRsa.Extensions.Http.Tests\VadRsa.Extensions.Http.Tests.csproj", "{5B8FFF6F-64C2-4C88-AA15-532505C3DE0A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6693EDFE-2379-4D93-860E-9CC9D1E07DC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6693EDFE-2379-4D93-860E-9CC9D1E07DC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6693EDFE-2379-4D93-860E-9CC9D1E07DC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6693EDFE-2379-4D93-860E-9CC9D1E07DC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B8FFF6F-64C2-4C88-AA15-532505C3DE0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B8FFF6F-64C2-4C88-AA15-532505C3DE0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B8FFF6F-64C2-4C88-AA15-532505C3DE0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B8FFF6F-64C2-4C88-AA15-532505C3DE0A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
